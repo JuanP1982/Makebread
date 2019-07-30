@@ -1,0 +1,86 @@
+body{
+    background:#31293A;
+}
+
+#btn{
+    font: bold 20px 'roboto'; 
+    color: white;
+    background:  #4169e1;
+    border: 0px; 
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    
+}
+
+#btn:active{
+    background:purple;
+}
+
+#btn2{
+    font: bold 15px 'roboto'; 
+    color:white;
+    background: #4169e1;
+    border: 0px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    
+}
+
+#btn:hover{
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5);
+}
+
+#btn2:hover{
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5);
+}
+
+#btn:active{
+    background:gray;
+}
+
+#btn2:disabled{
+    background: gray;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.5);
+}
+
+#btn3{
+    font: bold 15px 'roboto'; 
+    color: white;
+    background:#4169e1;
+    border: 0px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#btn4{
+    font: bold 15px 'roboto'; 
+    color:white;
+    background: #4169e1;
+    border: 0px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#btn5{
+    font: bold 15px 'roboto'; 
+    color:white;
+    background: #4169e1;
+    border: 0px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#btn3:hover{
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5);
+}
+
+#btn4:hover{
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5);
+}
+
+#btn3:active{
+    background:gray;
+}
+
+#btn4:active{
+    background:gray;
+}
+
+#btn2:active{
+    background:gray;
+}
