@@ -7,6 +7,7 @@ body{
     color: white;
     background:  #4169e1;
     border: 0px; 
+    border-radius: 10px;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
     
 }
@@ -20,6 +21,7 @@ body{
     color:white;
     background: #4169e1;
     border: 0px;
+    border-radius: 10px;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
     
 }
@@ -46,6 +48,7 @@ body{
     color: white;
     background:#4169e1;
     border: 0px;
+    border-radius: 10px;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
@@ -59,9 +62,10 @@ body{
 
 #btn5{
     font: bold 15px 'roboto'; 
-    color:white;
-    background: #4169e1;
+    color: white;
+    background: red;
     border: 0px;
+    border-radius: 10px;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
