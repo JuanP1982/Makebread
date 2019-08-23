@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1566015112,
+	"version": 1566524824,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,9 @@
 		"images/sprite-sheet0.png",
 		"images/lojadisp-sheet0.png",
 		"images/resetado-sheet0.png",
+		"images/padaria-sheet0.png",
+		"images/background.png",
+		"images/config-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
