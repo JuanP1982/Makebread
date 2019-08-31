@@ -76,3 +76,15 @@ body{
 #btn4:hover{
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5);
 }
+
+#btn3:active{
+    background:gray;
+}
+
+#btn4:active{
+    background:gray;
+}
+
+#btn2:active{
+    background:gray;
+}
